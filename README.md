@@ -1,5 +1,7 @@
 # My Playlist
 
+**Please note: This repository is now archived and will no longer be updated or maintained.**
+
 This is a simple web page that displays a playlist of Spotify tracks. It features a background image, stylish styling, and embedded Spotify track players. The HTML and CSS have been organized and styled for a visually appealing and responsive user experience.
 
 ## Table of Contents
